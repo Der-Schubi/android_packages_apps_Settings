@@ -111,6 +111,7 @@ public class DisplaySettings extends SettingsPreferenceFragment implements
     private static final String DISABLE_TORCH_ON_SCREEN_OFF = "disable_torch_on_screen_off";
     private static final String DISABLE_TORCH_ON_SCREEN_OFF_DELAY = "disable_torch_on_screen_off_delay";
     private static final String SCREENSHOT_DELAY = "screenshot_delay";
+    private static final String KEY_PROXIMITY_WAKE = "proximity_on_wake";
 
     private static final int DLG_GLOBAL_CHANGE_WARNING = 1;
 
